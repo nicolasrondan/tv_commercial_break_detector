@@ -14,8 +14,8 @@ Manuscript ID: IEEE LATAM Submission ID: 9985 Authors:
 * Gastón Gonzalez
 
 Affiliation:
-Engineering School
-Universidad de Montevideo
+Engineering School,
+Universidad de Montevideo,
 Uruguay
 
 ## Install
