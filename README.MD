@@ -1,5 +1,7 @@
 # A Novel System for Automatic Detection of TV Commercial Breaks
 
+![plot](./abstract.jpeg)
+
 Manuscript ID: IEEE LATAM Submission ID: 9985 Authors:
 
 * Nicolas Rondan
