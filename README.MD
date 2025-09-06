@@ -1,6 +1,6 @@
 # A Novel System for Automatic Detection of TV Commercial Breaks
 
-![plot](./abstract.jpeg)
+![plot](./Abstract.jpeg)
 
 Manuscript ID: IEEE LATAM Submission ID: 9985 Authors:
 
