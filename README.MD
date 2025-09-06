@@ -1,5 +1,21 @@
 # A Novel System for Automatic Detection of TV Commercial Breaks
 
+Manuscript ID: IEEE LATAM Submission ID: 9985 Authors:
+
+* Nicolas Rondan
+* Marcos Juayek 
+* Jose Joskowicz
+* Rafael Sotelo
+* Santiago Quincke 
+* Andrés Patrone 
+* Maximiliano Aguerre 
+* Gastón Gonzalez
+
+Affiliation:
+Engineering School
+Universidad de Montevideo
+Uruguay
+
 ## Install
 * Use conda to create virtual environment:
     * ` conda create -n tv_commercial_break_detector python=3.12 ` 
